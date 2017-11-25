@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6beb2fe3-d84f-437f-9b2d-a69465ac5609" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mainpackagelab4/MainLab4.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/MainLab4.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/TestClass.java" afterPath="$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/mainpackagelab4/MainLab4.java" afterPath="$PROJECT_DIR$/src/main/java/mainpackagelab4/MainLab4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java" afterPath="$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -55,11 +53,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainLab4.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainLab4.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/mainpackagelab4/MainLab4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="52" column="24" lean-forward="false" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+            <state relative-caret-position="221">
+              <caret line="45" column="58" lean-forward="false" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
+            <state relative-caret-position="479">
+              <caret line="86" column="15" lean-forward="false" selection-start-line="86" selection-start-column="15" selection-end-line="86" selection-end-column="15" />
               <folding>
                 <element signature="e#248#249#0" expanded="true" />
                 <element signature="e#285#286#0" expanded="true" />
@@ -424,8 +422,8 @@
         <option value="$PROJECT_DIR$/src/test/java/TestClass.java" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/src/main/java/MainLab4.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/mainpackagelab4/MainLab4.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java" />
       </list>
     </option>
   </component>
@@ -608,14 +606,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TestClass.task3KisCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <configuration name="TestClass.executeExpectException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="testpackagelab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <module name="lab4_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="testpackagelab4" />
       <option name="MAIN_CLASS_NAME" value="testpackagelab4.TestClass" />
-      <option name="METHOD_NAME" value="task3KisCorrect" />
+      <option name="METHOD_NAME" value="executeExpectException" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -711,18 +714,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.MainLab4" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestClass.task3KisCorrect" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestClass" />
-      <item index="3" class="java.lang.String" itemvalue="Gradle.Lab_4 [check]" />
-      <item index="4" class="java.lang.String" itemvalue="Gradle.Lab_4 [test]" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestClass" />
+      <item index="2" class="java.lang.String" itemvalue="Gradle.Lab_4 [check]" />
+      <item index="3" class="java.lang.String" itemvalue="Gradle.Lab_4 [test]" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestClass.executeExpectException" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MainLab4" />
-        <item index="1" class="java.lang.String" itemvalue="Gradle.Lab_4 [test]" />
-        <item index="2" class="java.lang.String" itemvalue="Gradle.Lab_4 [check]" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestClass" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestClass.task3KisCorrect" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestClass.executeExpectException" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MainLab4" />
+        <item index="2" class="java.lang.String" itemvalue="Gradle.Lab_4 [test]" />
+        <item index="3" class="java.lang.String" itemvalue="Gradle.Lab_4 [check]" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestClass" />
       </list>
     </recent_temporary>
   </component>
@@ -752,23 +755,23 @@
     <history-entry file="Lab_4_[check] - 2017.11.26 at 00h 29m 31s.xml">
       <configuration name="Lab_4 [check]" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Lab_4_[test] - 2017.11.19 at 20h 49m 30s.xml">
-      <configuration name="Lab_4 [test]" configurationId="GradleRunConfiguration" />
+    <history-entry file="Lab_4_[check] - 2017.11.26 at 00h 36m 18s.xml">
+      <configuration name="Lab_4 [check]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Lab_4_[check] - 2017.11.26 at 00h 36m 29s.xml">
+      <configuration name="Lab_4 [check]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Lab_4_[check] - 2017.11.26 at 01h 10m 40s.xml">
+      <configuration name="Lab_4 [check]" configurationId="GradleRunConfiguration" />
     </history-entry>
     <history-entry file="Lab_4_[test] - 2017.11.26 at 00h 30m 09s.xml">
       <configuration name="Lab_4 [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="TestClass - 2017.11.19 at 20h 39m 34s.xml">
-      <configuration name="TestClass" configurationId="JUnit" />
+    <history-entry file="Lab_4_[test] - 2017.11.26 at 01h 10m 43s.xml">
+      <configuration name="Lab_4 [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="TestClass_task3IisCorrect - 2017.11.19 at 20h 37m 11s.xml">
-      <configuration name="TestClass.task3IisCorrect" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestClass_task3JisCorrect - 2017.11.19 at 20h 38m 23s.xml">
-      <configuration name="TestClass.task3JisCorrect" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestClass_task3KisCorrect - 2017.11.19 at 20h 39m 26s.xml">
-      <configuration name="TestClass.task3KisCorrect" configurationId="JUnit" />
+    <history-entry file="TestClass_executeExpectException - 2017.11.26 at 01h 10m 22s.xml">
+      <configuration name="TestClass.executeExpectException" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -993,23 +996,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mainpackagelab4/MainLab4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
+        <state relative-caret-position="221">
+          <caret line="45" column="58" lean-forward="false" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="58" />
           <folding>
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mainpackagelab4/MainLab4.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="52" column="24" lean-forward="false" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+        <state relative-caret-position="479">
+          <caret line="86" column="15" lean-forward="false" selection-start-line="86" selection-start-column="15" selection-end-line="86" selection-end-column="15" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
           </folding>
         </state>
       </provider>

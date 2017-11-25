@@ -9,9 +9,6 @@ import javax.xml.xquery.*;
 
 public class MainLab4 {
 
-    private XQDataSource ds;
-    private XQConnection conn;
-
     public static void main(String[] args) throws XQException, FileNotFoundException {
 
         mainpackagelab4.MainLab4 test = new mainpackagelab4.MainLab4();
@@ -48,8 +45,8 @@ public class MainLab4 {
 
     public String execute(String query) throws XQException {
 
-            ds = new SaxonXQDataSource();
-            conn = ds.getConnection();
+            XQDataSource ds = new SaxonXQDataSource();
+            XQConnection conn= ds.getConnection();
             List<String> res = new ArrayList<>();
             XQPreparedExpression exp = conn.prepareExpression(query);
             XQResultSequence result = exp.executeQuery();

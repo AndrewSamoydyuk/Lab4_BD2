@@ -16,7 +16,6 @@ public class TestClass {
         inst = new MainLab4();
     }
 
-
     @Test
     public void task3AisCorrect() throws  XQException {
         String expected = "[<title>Vehicula Foundation</title>, <title>Dolor Elit Consulting</title>, <title>Lobortis Nisi Nibh Consulting</title>, <title>Lacinia Vitae Sodales Company</title>, <title>Velit Sed LLC</title>, <title>Vitae Inc.</title>, <title>Proin Eget Odio Associates</title>, <title>Egestas Urna Institute</title>, <title>Libero Morbi Accumsan LLP</title>, <title>In Molestie Tortor Consulting</title>, <title>Pulvinar Arcu Consulting</title>, <title>Nunc LLP</title>, <title>Pretium Et Rutrum Corporation</title>, <title>Nisl Quisque Fringilla Corporation</title>, <title>Aptent Taciti Corporation</title>]";
@@ -81,6 +80,11 @@ public class TestClass {
     public void task3KisCorrect() throws  XQException {
         String expected = "[8]";
         assertEquals(expected,inst.execute("let $items := 0 return count(for $x in doc(\"DB/books.xml\")/all_books/book where $x/cover=\"solid\" return $x/cover)"));
+    }
+
+    @Test(expected = XQException.class)
+    public void executeExpectException() throws XQException {
+        inst.execute("wrong query");
     }
 
 }
