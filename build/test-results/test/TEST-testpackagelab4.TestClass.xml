@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testpackagelab4.TestClass" tests="11" skipped="0" failures="0" errors="0" timestamp="2017-11-25T22:29:29" hostname="Asus-ПК" time="1.364">
+  <properties/>
+  <testcase name="task3KisCorrect" classname="testpackagelab4.TestClass" time="1.065"/>
+  <testcase name="task3JisCorrect" classname="testpackagelab4.TestClass" time="0.087"/>
+  <testcase name="task3IisCorrect" classname="testpackagelab4.TestClass" time="0.067"/>
+  <testcase name="task3HisCorrect" classname="testpackagelab4.TestClass" time="0.035"/>
+  <testcase name="task3GisCorrect" classname="testpackagelab4.TestClass" time="0.012"/>
+  <testcase name="task3FisCorrect" classname="testpackagelab4.TestClass" time="0.016"/>
+  <testcase name="task3EisCorrect" classname="testpackagelab4.TestClass" time="0.028"/>
+  <testcase name="task3DisCorrect" classname="testpackagelab4.TestClass" time="0.012"/>
+  <testcase name="task3CisCorrect" classname="testpackagelab4.TestClass" time="0.013"/>
+  <testcase name="task3BisCorrect" classname="testpackagelab4.TestClass" time="0.012"/>
+  <testcase name="task3AisCorrect" classname="testpackagelab4.TestClass" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
