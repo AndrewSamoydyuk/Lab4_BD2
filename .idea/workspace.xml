@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6beb2fe3-d84f-437f-9b2d-a69465ac5609" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/mainpackagelab4/MainLab4.java" afterPath="$PROJECT_DIR$/src/main/java/mainpackagelab4/MainLab4.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java" afterPath="$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -53,11 +52,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainLab4.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainLab4.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/mainpackagelab4/MainLab4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="50" column="63" lean-forward="false" selection-start-line="50" selection-start-column="63" selection-end-line="50" selection-end-column="63" />
+            <state relative-caret-position="119">
+              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,7 +64,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1258">
@@ -419,8 +418,8 @@
         <option value="$PROJECT_DIR$/src/test/java/TestClass.java" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/src/main/java/MainLab4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mainpackagelab4/MainLab4.java" />
         <option value="$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mainpackagelab4/MainLab4.java" />
       </list>
     </option>
   </component>
@@ -751,17 +750,17 @@
     <history-entry file="Lab_4_[check] - 2017.11.26 at 02h 11m 06s.xml">
       <configuration name="Lab_4 [check]" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="Lab_4_[check] - 2017.11.26 at 02h 16m 33s.xml">
+      <configuration name="Lab_4 [check]" configurationId="GradleRunConfiguration" />
+    </history-entry>
     <history-entry file="Lab_4_[test] - 2017.11.26 at 01h 50m 33s.xml">
       <configuration name="Lab_4 [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
     <history-entry file="Lab_4_[test] - 2017.11.26 at 02h 11m 08s.xml">
       <configuration name="Lab_4 [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="TestClass - 2017.11.26 at 01h 34m 41s.xml">
-      <configuration name="TestClass" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestClass - 2017.11.26 at 01h 37m 06s.xml">
-      <configuration name="TestClass" configurationId="JUnit" />
+    <history-entry file="Lab_4_[test] - 2017.11.26 at 02h 16m 38s.xml">
+      <configuration name="Lab_4 [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
     <history-entry file="TestClass - 2017.11.26 at 01h 37m 29s.xml">
       <configuration name="TestClass" configurationId="JUnit" />
@@ -1021,21 +1020,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mainpackagelab4/MainLab4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="50" column="63" lean-forward="false" selection-start-line="50" selection-start-column="63" selection-end-line="50" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1258">
           <caret line="79" column="16" lean-forward="false" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mainpackagelab4/MainLab4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

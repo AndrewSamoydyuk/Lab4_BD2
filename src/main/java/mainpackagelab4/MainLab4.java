@@ -13,7 +13,7 @@ public class MainLab4 {
 
         mainpackagelab4.MainLab4 test = new mainpackagelab4.MainLab4();
         //3_a
-        //System.out.printf(test.execute("for $x in doc(\"DB/books.xml\")/all_books/book return $x"));
+        System.out.printf(test.execute("for $x in doc(\"DB/books.xml\")/all_books/book return $x"));
         //3_b
         //System.out.printf(test.execute("for $x in distinct-values(doc(\"DB/books.xml\")/all_books/book/author) order by $x return $x"));
         //3_c
