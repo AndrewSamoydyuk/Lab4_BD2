@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6beb2fe3-d84f-437f-9b2d-a69465ac5609" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/mainpackagelab4/MainLab4.class" afterPath="$PROJECT_DIR$/out/production/classes/mainpackagelab4/MainLab4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/classes/testpackagelab4/TestClass.class" afterPath="$PROJECT_DIR$/out/test/classes/testpackagelab4/TestClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/mainpackagelab4/MainLab4.java" afterPath="$PROJECT_DIR$/src/main/java/mainpackagelab4/MainLab4.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java" afterPath="$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java" />
     </list>
@@ -56,34 +53,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainLab4.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainLab4.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/mainpackagelab4/MainLab4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="40" lean-forward="false" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
+            <state relative-caret-position="306">
+              <caret line="50" column="63" lean-forward="false" selection-start-line="50" selection-start-column="63" selection-end-line="50" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#task3a#0;class#MainLab4#0" expanded="false" />
-                <element signature="method#task3b#0;class#MainLab4#0" expanded="false" />
-                <element signature="method#task3c#0;class#MainLab4#0" expanded="false" />
-                <element signature="method#task3d1#0;class#MainLab4#0" expanded="false" />
-                <element signature="method#task3e#0;class#MainLab4#0" expanded="false" />
-                <element signature="method#task3f#0;class#MainLab4#0" expanded="false" />
-                <element signature="method#task3g#0;class#MainLab4#0" expanded="false" />
-                <element signature="method#task3h#0;class#MainLab4#0" expanded="false" />
-                <element signature="method#task3i#0;class#MainLab4#0" expanded="false" />
-                <element signature="method#task3j1#0;class#MainLab4#0" expanded="false" />
-                <element signature="method#task3k1#0;class#MainLab4#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-385">
-              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <state relative-caret-position="1258">
+              <caret line="79" column="16" lean-forward="false" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -433,8 +419,8 @@
         <option value="$PROJECT_DIR$/src/test/java/TestClass.java" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/src/main/java/MainLab4.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/mainpackagelab4/MainLab4.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java" />
       </list>
     </option>
   </component>
@@ -737,9 +723,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Gradle.Lab_4 [test]" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MainLab4" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestClass" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestClass" />
+        <item index="1" class="java.lang.String" itemvalue="Gradle.Lab_4 [test]" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MainLab4" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.TestClass.task3AisCorrect" />
         <item index="4" class="java.lang.String" itemvalue="Gradle.Lab_4 [check]" />
       </list>
@@ -759,13 +745,16 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Lab_4_[check] - 2017.11.26 at 01h 31m 55s.xml">
-      <configuration name="Lab_4 [check]" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="Lab_4_[check] - 2017.11.26 at 01h 50m 31s.xml">
       <configuration name="Lab_4 [check]" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="Lab_4_[check] - 2017.11.26 at 02h 11m 06s.xml">
+      <configuration name="Lab_4 [check]" configurationId="GradleRunConfiguration" />
+    </history-entry>
     <history-entry file="Lab_4_[test] - 2017.11.26 at 01h 50m 33s.xml">
+      <configuration name="Lab_4 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Lab_4_[test] - 2017.11.26 at 02h 11m 08s.xml">
       <configuration name="Lab_4 [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
     <history-entry file="TestClass - 2017.11.26 at 01h 34m 41s.xml">
@@ -783,11 +772,8 @@
     <history-entry file="TestClass - 2017.11.26 at 01h 49m 06s.xml">
       <configuration name="TestClass" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestClass_task3AisCorrect - 2017.11.26 at 01h 31m 47s.xml">
-      <configuration name="TestClass.task3AisCorrect" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestClass_task3AisCorrect - 2017.11.26 at 01h 33m 23s.xml">
-      <configuration name="TestClass.task3AisCorrect" configurationId="JUnit" />
+    <history-entry file="TestClass - 2017.11.26 at 02h 10m 57s.xml">
+      <configuration name="TestClass" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -821,6 +807,35 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24794745" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30541873" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14447807" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -838,17 +853,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#task3a#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3b#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3c#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3d1#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3e#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3f#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3g#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3h#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3i#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3j1#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3k1#0;class#MainLab4#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -899,17 +903,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#task3a#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3b#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3c#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3d1#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3e#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3f#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3g#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3h#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3i#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3j1#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3k1#0;class#MainLab4#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -960,17 +953,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#task3a#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3b#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3c#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3d1#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3e#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3f#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3g#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3h#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3i#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3j1#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3k1#0;class#MainLab4#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1039,32 +1021,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mainpackagelab4/MainLab4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-385">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="306">
+          <caret line="50" column="63" lean-forward="false" selection-start-line="50" selection-start-column="63" selection-end-line="50" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mainpackagelab4/MainLab4.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="40" lean-forward="false" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#task3a#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3b#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3c#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3d1#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3e#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3f#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3g#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3h#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3i#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3j1#0;class#MainLab4#0" expanded="false" />
-            <element signature="method#task3k1#0;class#MainLab4#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="1258">
+          <caret line="79" column="16" lean-forward="false" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>

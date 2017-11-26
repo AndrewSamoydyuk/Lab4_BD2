@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testpackagelab4.TestClass" tests="11" skipped="0" failures="0" errors="0" timestamp="2017-11-25T23:50:29" hostname="Asus-ПК" time="1.2">
+<testsuite name="testpackagelab4.TestClass" tests="12" skipped="0" failures="0" errors="0" timestamp="2017-11-26T00:11:04" hostname="Asus-ПК" time="1.341">
   <properties/>
-  <testcase name="task3J1isCorrect" classname="testpackagelab4.TestClass" time="0.91"/>
-  <testcase name="task3IisCorrect" classname="testpackagelab4.TestClass" time="0.088"/>
-  <testcase name="task3HisCorrect" classname="testpackagelab4.TestClass" time="0.03"/>
-  <testcase name="task3GisCorrect" classname="testpackagelab4.TestClass" time="0.021"/>
-  <testcase name="task3FisCorrect" classname="testpackagelab4.TestClass" time="0.013"/>
-  <testcase name="task3EisCorrect" classname="testpackagelab4.TestClass" time="0.012"/>
-  <testcase name="task3D1isCorrect" classname="testpackagelab4.TestClass" time="0.042"/>
-  <testcase name="task3CisCorrect" classname="testpackagelab4.TestClass" time="0.042"/>
-  <testcase name="task3BisCorrect" classname="testpackagelab4.TestClass" time="0.012"/>
-  <testcase name="task3K1isCorrect" classname="testpackagelab4.TestClass" time="0.013"/>
-  <testcase name="task3AisCorrect" classname="testpackagelab4.TestClass" time="0.01"/>
+  <testcase name="executeExpectException" classname="testpackagelab4.TestClass" time="0.582"/>
+  <testcase name="task3KisCorrect" classname="testpackagelab4.TestClass" time="0.466"/>
+  <testcase name="task3JisCorrect" classname="testpackagelab4.TestClass" time="0.097"/>
+  <testcase name="task3IisCorrect" classname="testpackagelab4.TestClass" time="0.061"/>
+  <testcase name="task3HisCorrect" classname="testpackagelab4.TestClass" time="0.026"/>
+  <testcase name="task3GisCorrect" classname="testpackagelab4.TestClass" time="0.014"/>
+  <testcase name="task3FisCorrect" classname="testpackagelab4.TestClass" time="0.015"/>
+  <testcase name="task3EisCorrect" classname="testpackagelab4.TestClass" time="0.024"/>
+  <testcase name="task3DisCorrect" classname="testpackagelab4.TestClass" time="0.02"/>
+  <testcase name="task3CisCorrect" classname="testpackagelab4.TestClass" time="0.008"/>
+  <testcase name="task3BisCorrect" classname="testpackagelab4.TestClass" time="0.013"/>
+  <testcase name="task3AisCorrect" classname="testpackagelab4.TestClass" time="0.012"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
+  <system-err><![CDATA[Error on line 1 column 6 
+  XPST0003 XQuery syntax error in #wrong query#:
+    Unexpected token name "query" beyond end of query
+]]></system-err>
 </testsuite>
