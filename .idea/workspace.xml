@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6beb2fe3-d84f-437f-9b2d-a69465ac5609" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java" afterPath="$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -68,8 +67,8 @@
       <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="119">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -725,14 +724,11 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Lab_4_[check] - 2017.11.26 at 02h 16m 33s.xml">
-      <configuration name="Lab_4 [check]" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="Lab_4_[check] - 2017.11.28 at 14h 13m 45s.xml">
       <configuration name="Lab_4 [check]" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Lab_4_[test] - 2017.11.26 at 01h 50m 33s.xml">
-      <configuration name="Lab_4 [test]" configurationId="GradleRunConfiguration" />
+    <history-entry file="Lab_4_[check] - 2017.11.28 at 14h 15m 24s.xml">
+      <configuration name="Lab_4 [check]" configurationId="GradleRunConfiguration" />
     </history-entry>
     <history-entry file="Lab_4_[test] - 2017.11.26 at 02h 11m 08s.xml">
       <configuration name="Lab_4 [test]" configurationId="GradleRunConfiguration" />
@@ -741,6 +737,9 @@
       <configuration name="Lab_4 [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
     <history-entry file="Lab_4_[test] - 2017.11.28 at 14h 13m 50s.xml">
+      <configuration name="Lab_4 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Lab_4_[test] - 2017.11.28 at 14h 15m 26s.xml">
       <configuration name="Lab_4 [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
     <history-entry file="TestClass - 2017.11.26 at 01h 37m 29s.xml">
@@ -1035,8 +1034,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testpackagelab4/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
